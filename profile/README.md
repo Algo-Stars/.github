@@ -30,4 +30,6 @@ Whether you're a seasoned developer or just starting your coding journey, Algo S
 ## Getting Started:
 Staring to contributing in the organization heads over to [GET_STARTED.md](GET_STARTED.md) file
 
-Happy Coding! 🚀👩‍💻👨‍💻 #AlgoStars #CodeWithPassion
+Happy Coding! 🚀👩‍💻👨‍💻
+
+#AlgoStars #CodeWithPassion
