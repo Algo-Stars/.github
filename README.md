@@ -13,6 +13,8 @@ Welcome to Algo Stars, a GitHub organization dedicated to showcasing the prowess
   - [Making Changes](#making-changes)
   - [Pushing Changes](#pushing-changes)
   - [Creating a Pull Request](#creating-a-pull-request)
+
+- [Additional Learning Resources](#additional-learning-resources)
 - [Code of Conduct](#code-of-conduct)
 
 ## Getting Started
