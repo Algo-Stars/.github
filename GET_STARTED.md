@@ -101,11 +101,12 @@ Congratulations! You've just contributed to Algo Stars!!!
 
 For a more detailed understanding of Git and GitHub operations, you may find the following video tutorials helpful:
 
-1. [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) by Traversy Media
+1. [Git & GitHub Crash Course For Beginners](https://youtu.be/Ez8F0nW6S-w?si=ytqzcDODxt4X1uad) by Apna College
+   
+2.  [Git & GitHub Crash Course For Beginners](https://youtu.be/apGV9Kg7ics?si=3y1DDziLb0bpHYuL) by Kunal Kushwaha
 
-2. [GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=iv8rSLsi1xo) by Academind
+3. [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc) by Traversy Media
 
-3. [GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) by Programming with Mosh
 
 
 ## Code of Conduct
