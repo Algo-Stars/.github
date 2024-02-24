@@ -110,6 +110,6 @@ For a more detailed understanding of Git and GitHub operations, you may find the
 
 ## Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for everyone.
+Please adhere to our [Code of Conduct](../profile/CODE_OF_CONDUCT.md) to ensure a positive and inclusive environment for everyone.
 
 Happy coding! 🚀
